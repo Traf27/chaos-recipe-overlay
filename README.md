@@ -38,7 +38,7 @@ You will find this value in your cookies once you are logged into the [official 
 - Node/NPM
 
 #### NPM tasks
-
+- `npm install` get required modules
 - `npm run start` to start the app using the sources;
 - `npm run debug` same thing, but will also open the browser debugger for the overlay/settings windows;
 - `npm run dist` to produce the publishable .exe file (must be on Windows).
